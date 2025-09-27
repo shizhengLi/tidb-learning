@@ -1,7 +1,5 @@
 # TiDB 学习项目
 
-![TiDB Logo](https://raw.githubusercontent.com/pingcap/tidb/master/docs/logo/tidb-logo.png)
-
 > 一个全面的 TiDB 分布式数据库学习项目，从基础概念到高级应用，包含实战案例和面试题库。
 
 ## 📋 项目概述
